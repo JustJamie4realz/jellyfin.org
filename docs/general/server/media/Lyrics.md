@@ -4,7 +4,7 @@ title: Lyrics
 ---
 
 # Lyrics
-Lyrics are contained in the same folder and must match the filenames for their corresponding item. For example: The lyric file for `01 Death Eternal.mp3` must be `01 Death Eternal.lrc` or `01 Death Eternal.txt`.
+Lyrics are contained in the same folder and must match the filenames for their corresponding item. For example: The lyric file for `01 Death Eternal.mp3` must be `01 Death Eternal.lrc` or `01 Death Eternal.txt`
 
 ```
 Music
