@@ -4,7 +4,7 @@ title: Lyrics
 ---
 
 # Lyrics
-Lyrics are contained in the same folder as the song with the same file name and it's extention being `.lrc`
+Lyrics are contained in the same folder and must match the filenames for their corresponding item. For example: The lyric file for `01 Death Eternal.mp3` must be `01 Death Eternal.lrc` or `01 Death Eternal.txt`.
 
 ```
 Music
@@ -18,7 +18,7 @@ Music
         └── Song 3.lrc
 ```
 
-The Lyrics file can be synchronized or unsynchronized and may have some extra metadata, but that's optional. 
+The Lyrics file can be synchronized or unsynchronized. It can have some extra metadata, but that won't be registered by Jellyfin.
 
 ### Synchronized
 You can either synchronize lyrics by hand (which can be time consuming and not precise) or use any lrics synchronization software, like minilyrics.
